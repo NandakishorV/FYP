@@ -38,4 +38,18 @@ Link - https://github.com/FudanSELab/train-ticket
 - This will generate a log file(trace.json), run the extract_data.ipynb file to extract *call counts*, *average duration* and *delay*
 
 # Feature prediction
-- 
+
+## Node feature prediction
+- Run notebook files in <application-name>/feature-prediction/node folder
+## Edge feature prediction
+- Run notebook files in <application-name>/feature-prediction/edge folder
+
+# Node Scoring
+
+## Calculating vulnerability scores
+- Run notebook files in <application-name>/node-scoring/training folder
+## Performance analysis
+### Structural integrity
+- Run notebook files in <application-name>/node-scoring/structural-integrity folder
+### Closeness similarity
+- Run notebook files in <application-name>/node-scoring/closeness-similarity folder
