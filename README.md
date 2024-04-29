@@ -49,7 +49,7 @@ Link - https://github.com/FudanSELab/train-ticket
 ## Calculating vulnerability scores
 - Run notebook files in <application-name>/node-scoring/training folder
 ## Performance analysis
-### Topology based analysis
+### Topology-based analysis
 - Run notebook files in <application-name>/node-scoring/structural-integrity folder
 ### Node similarity analysis
 - Run notebook files in <application-name>/node-scoring/closeness-similarity folder
